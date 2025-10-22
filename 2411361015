@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>2411361015</title>
+        <style>
+            header,footer {clear: both; background: blue;width: 200px; height: 100px;}
+            nav {float: left; background: red;width: 100px; height: 250px;}
+            main {float: left; background: yellow; width: 1500px; height: 2000px;}
+            aside {float: left; background: blue; width: 100px; height: 200px;}
+        </style>
+    </head>
+    <body>
+        <header>
+            <a>2411361015</a>
+        </header>
+        <nav>
+            <a>2411361015</a>
+        </nav>
+        <main>
+            <a>2411361015</a>
+            <a>2411361015</a>
+        </main>
+        <aside>
+            <a>2411361015</a>
+        </aside>
+        <footer>
+            <a>2411361015</a>
+        </footer>
+    </body>
+
+</html>
