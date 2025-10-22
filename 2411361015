@@ -3,7 +3,7 @@
     <head>
         <title>2411361028</title>
         <style>
-            header,footer {clear: both; background: pink;width: 200px; height: 100px;}
+            header,footer {clear: both; background: blue;width: 200px; height: 100px;}
             nav {float: left; background: red;width: 100px; height: 200px;}
             main {float: left; background: yellow; width: 1500px; height: 2000px;}
             aside {float: left; background: blue; width: 100px; height: 200px;}
